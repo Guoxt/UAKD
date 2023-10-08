@@ -18,8 +18,7 @@
 
 1. train
 
-```python main.py```                              # set '--phase' as train cal
-```python main_LRP.py```                          # set '--phase' as train apm
+```python main.py```                              # set '--phase' as train
 
 2. test
 
