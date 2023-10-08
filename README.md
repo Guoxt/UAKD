@@ -1,5 +1,4 @@
 ### Uncertainty Driven Adaptive Self-Knowledge Distillation for Medical Image Segmentation
-
 ------
 ### Introduction 
 
@@ -13,7 +12,7 @@
 ### Framework
 ------
 
-<img src="https://github.com/Guoxt/RPRC/blob/master/ima00.png" alt="Image Alt Text" style="width:1000px; height:auto;">
+<img src="https://github.com/Guoxt/RPRC/blob/master/img00.png" alt="Image Alt Text" style="width:1000px; height:auto;">
 
 ------
 ### Run MRNet Code
