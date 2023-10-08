@@ -10,9 +10,8 @@
 
 ------
 ### Framework
-------
 
-<img src="https://github.com/Guoxt/UAKD/blob/master/img00.png" alt="Image Alt Text" style="width:1000px; height:auto;">
+<img src="[https://github.com/Guoxt/UAKD/blob/master/img00.png](https://github.com/Guoxt/UAKD/blob/main/img00.png)" alt="Image Alt Text" style="width:1000px; height:auto;">
 
 ------
 ### Run Code
