@@ -16,11 +16,5 @@
 ------
 ### Run Code
 
-1. train
-
-```python main.py```                              # set '--phase' as train
-
-2. test
-
-```python test.py```                        # set '--phase' as test
+Only partial network-related code has been released here; the complete code will be updated after the paper is officially published.
 
