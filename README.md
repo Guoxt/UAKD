@@ -16,5 +16,5 @@
 ------
 ### Run Code
 
-Only partial network-related code has been released here; the complete code will be updated after the paper is officially published.
+The complete code will be updated after the paper is officially published.
 
