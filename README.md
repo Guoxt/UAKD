@@ -16,5 +16,11 @@
 ------
 ### Run Code
 
-The complete code will be updated after the paper is officially published.
+1. train
+
+```python main.py --patch_size 12 --in_channels 1 --T 2.5 --labels 2```                        # Setting Training Parameters
+
+2. test
+
+```python test.py --patch_size 12 --in_channels 1 --T 2.5 --labels 2```                        # Setting Testing Parameters
 
